@@ -1,0 +1,20 @@
+.global-header{
+  background:black;
+  border-bottom: 1px solid black;
+}
+
+.global-header .nav-links .main .nav-tab a{
+  color: white;
+}
+
+.global-header .nav-links .secondary .nav-item a {
+  color: white;
+}
+
+.find-courses .discovery-submit{
+  background: #f26222;
+}
+
+.footer-about-openedx {
+    display: none !important;
+}
