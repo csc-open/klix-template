@@ -8,7 +8,7 @@
 }
 
 .global-header .nav-links .secondary .nav-item a {
-  color: white;
+  color: white !important;
 }
 
 .find-courses .discovery-submit{
