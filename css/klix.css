@@ -8,7 +8,15 @@
 }
 
 .global-header .nav-links .secondary .nav-item a {
-  color: white !important;
+  color: white;
+}
+
+a:not(.btn), a:visited:not(.btn){
+  color: white;
+}
+
+a:hover:not(.btn){
+  color: #f26222;
 }
 
 .find-courses .discovery-submit{
